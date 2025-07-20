@@ -1,0 +1,19 @@
+{
+    "welcome": "مرحبا بكم في متجرنا",
+    "appTitle": "متجر سبرنتس",
+    "fullName": "الاسم الكامل",
+    "fullNameError": "يجب أن يبدأ الاسم بحرف كبير",
+    "email": "البريد الإلكتروني",
+    "emailError": "يجب أن يحتوي البريد على '@'",
+    "password": "كلمة المرور",
+    "passwordError": "يجب ألا تقل كلمة المرور عن 6 أحرف",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "confirmPasswordError": "يجب أن تتطابق كلمات المرور",
+    "signUp": "انشاء حساب",
+    "signIn": "تسجيل الدخول",
+    "accountCreated": "تم إنشاء الحساب بنجاح",
+    "accountSignedIn": "تم تسجيل الدخول بنجاح",
+    "closeDialog": "اغلاق",
+    "ourProducts": "منتجاتنا",
+    "hotOffer": "العروض الساخنة"
+}

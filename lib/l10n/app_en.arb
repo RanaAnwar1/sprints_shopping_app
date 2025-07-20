@@ -1,0 +1,22 @@
+{
+    "welcome": "Welcome to our store!",
+    "appTitle": "Sprints Shop",
+    "fullName": "Full Name",
+    "fullNameError": "First letter must be uppercase",
+    "email": "Email",
+    "emailError": "Email must include '@'",
+    "password": "Password",
+    "passwordError": "Password must be at least 6 characters",
+    "confirmPassword": "Confirm Password",
+    "confirmPasswordError": "Passwords must match",
+    "signUp": "Sign Up",
+    "signIn": "Sign In",
+    "accountCreated": "Account created successfully",
+    "accountSignedIn": "Account signed in successfully",
+    "closeDialog": "Close",
+    "ourProducts": "Our Products",
+    "hotOffer": "Hot Offers"
+
+
+
+}
